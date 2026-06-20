@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", sans-serif;
+  --font-mono: "JetBrains Mono", monospace;
+  
+  --color-brand-50: #FEFCE8;
+  --color-brand-100: #FACC15;
+  --color-brand-500: #6366F1;
+  --color-brand-600: #4F46E5;
+  --color-brand-700: #3730A3;
+}
+
+/* Custom micro-vibs for the app with Vibrant Palette Theme */
+body {
+  font-family: var(--font-sans);
+  background-color: #FEFCE8;
+  color: #1E293B;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.dark body {
+  background-color: #111827;
+  color: #F8FAFC;
+}
+
+/* Neo-brutalist styling utilities for the Vibrant Palette */
+.vibrant-heading {
+  font-family: var(--font-display);
+  font-weight: 900;
+  letter-spacing: -0.04em;
+}
+
+.vibrant-shadow-teal {
+  box-shadow: 6px 6px 0px 0px #115E59;
+}
+.vibrant-shadow-yellow {
+  box-shadow: 6px 6px 0px 0px #854D0E;
+}
+.vibrant-shadow-rose {
+  box-shadow: 6px 6px 0px 0px #9F1239;
+}
+.vibrant-shadow-indigo {
+  box-shadow: 6px 6px 0px 0px #3730A3;
+}
+.vibrant-shadow-black {
+  box-shadow: 6px 6px 0px 0px #111827;
+}
+.vibrant-shadow-slate {
+  box-shadow: 6px 6px 0px 0px #475569;
+}
+
+/* Scrollbar aesthetic */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: #334155;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Student Absence Notification System",
+  "description": "An AI-powered real-time attendance tracking and parent notification system with smart insights and live dashboard monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

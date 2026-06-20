@@ -1,0 +1,673 @@
+{
+  "students": [
+    {
+      "id": "CS-2026-001",
+      "name": "Madhan Raj",
+      "registerNumber": "CS-2026-001",
+      "department": "Computer Science Engineeing",
+      "year": "III Year",
+      "section": "A",
+      "parentName": "Sundar Raj",
+      "parentPhone": "+91 9443212345",
+      "parentEmail": "sundar.raj@parent.edu",
+      "attendanceRate": 63.6,
+      "lastAttendanceDate": "2026-06-20",
+      "history": [
+        {
+          "date": "2026-06-08",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-09",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-11",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-12",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-15",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-16",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-17",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-18",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-19",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-20",
+          "status": "absent"
+        }
+      ]
+    },
+    {
+      "id": "CS-2026-002",
+      "name": "Arun Kumar",
+      "registerNumber": "CS-2026-002",
+      "department": "Computer Science Engineeing",
+      "year": "III Year",
+      "section": "A",
+      "parentName": "Ganesan Kumar",
+      "parentPhone": "+91 9445431122",
+      "parentEmail": "ganesan.k@parent.edu",
+      "attendanceRate": 81.8,
+      "lastAttendanceDate": "2026-06-20",
+      "history": [
+        {
+          "date": "2026-06-08",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-09",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-11",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-12",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-15",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-16",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-17",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-18",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-19",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-20",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "EC-2026-003",
+      "name": "Priya Swaminathan",
+      "registerNumber": "EC-2026-003",
+      "department": "Electronics & Communication",
+      "year": "II Year",
+      "section": "B",
+      "parentName": "Swaminathan Iyer",
+      "parentPhone": "+91 9884567890",
+      "parentEmail": "swami.iyer@parent.edu",
+      "attendanceRate": 63.6,
+      "lastAttendanceDate": "2026-06-20",
+      "history": [
+        {
+          "date": "2026-06-08",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-09",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-11",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-12",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-15",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-16",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-17",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-18",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-19",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-20",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "EC-2026-004",
+      "name": "Sneha Reddy",
+      "registerNumber": "EC-2026-004",
+      "department": "Electronics & Communication",
+      "year": "II Year",
+      "section": "B",
+      "parentName": "Prasad Reddy",
+      "parentPhone": "+91 9771122334",
+      "parentEmail": "prasad.reddy@parent.edu",
+      "attendanceRate": 90.9,
+      "lastAttendanceDate": "2026-06-20",
+      "history": [
+        {
+          "date": "2026-06-08",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-09",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-11",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-12",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-15",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-16",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-17",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-18",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-19",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-20",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "ME-2026-005",
+      "name": "Karthik Subramanian",
+      "registerNumber": "ME-2026-005",
+      "department": "Mechanical Engineering",
+      "year": "IV Year",
+      "section": "A",
+      "parentName": "Subramanian Mani",
+      "parentPhone": "+91 9662244668",
+      "parentEmail": "subra.m@parent.edu",
+      "attendanceRate": 100,
+      "lastAttendanceDate": "2026-06-20",
+      "history": [
+        {
+          "date": "2026-06-08",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-09",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-11",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-12",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-15",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-16",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-17",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-18",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-19",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-20",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "IT-2026-006",
+      "name": "Vikram Seth",
+      "registerNumber": "IT-2026-006",
+      "department": "Information Technology",
+      "year": "I Year",
+      "section": "C",
+      "parentName": "Rajender Seth",
+      "parentPhone": "+91 9553355779",
+      "parentEmail": "raj.seth@parent.edu",
+      "attendanceRate": 81.8,
+      "lastAttendanceDate": "2026-06-20",
+      "history": [
+        {
+          "date": "2026-06-08",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-09",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-11",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-12",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-15",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-16",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-17",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-18",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-19",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-20",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "IT-2026-007",
+      "name": "Ananya Sharma",
+      "registerNumber": "IT-2026-007",
+      "department": "Information Technology",
+      "year": "I Year",
+      "section": "C",
+      "parentName": "Vinay Sharma",
+      "parentPhone": "+91 9331133557",
+      "parentEmail": "vinay.sharma@parent.edu",
+      "attendanceRate": 54.5,
+      "lastAttendanceDate": "2026-06-20",
+      "history": [
+        {
+          "date": "2026-06-08",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-09",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-11",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-12",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-15",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-16",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-17",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-18",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-19",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-20",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "EE-2026-008",
+      "name": "Rajesh Nair",
+      "registerNumber": "EE-2026-008",
+      "department": "Electrical Engineering",
+      "year": "IV Year",
+      "section": "B",
+      "parentName": "Radhas Nair",
+      "parentPhone": "+91 9224422331",
+      "parentEmail": "radhas.nair@parent.edu",
+      "attendanceRate": 90.9,
+      "lastAttendanceDate": "2026-06-20",
+      "history": [
+        {
+          "date": "2026-06-08",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-09",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-10",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-11",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-12",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-15",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-16",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-17",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-18",
+          "status": "absent"
+        },
+        {
+          "date": "2026-06-19",
+          "status": "present"
+        },
+        {
+          "date": "2026-06-20",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Madhan",
+      "registerNumber": "22",
+      "department": "Computer Science Engineeing",
+      "year": "I Year",
+      "section": "A",
+      "parentName": "Alternative Guardian",
+      "parentPhone": "6789754321",
+      "parentEmail": "madhan8220am@gmail.com",
+      "attendanceRate": 0,
+      "lastAttendanceDate": "2026-06-20",
+      "history": [
+        {
+          "date": "2026-06-20",
+          "status": "absent"
+        }
+      ]
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif-1781943638434-282789",
+      "studentId": "22",
+      "studentName": "Madhan",
+      "parentName": "Alternative Guardian",
+      "parentContact": "6789754321",
+      "channel": "Push",
+      "message": "🔔 Absence Alert: Madhan is absent today (20-06-2026). Click to review details.",
+      "status": "Delivered",
+      "timestamp": "2026-06-20T08:20:38.434Z"
+    },
+    {
+      "id": "notif-1781943638434-707043",
+      "studentId": "22",
+      "studentName": "Madhan",
+      "parentName": "Alternative Guardian",
+      "parentContact": "madhan8220am@gmail.com",
+      "channel": "Email",
+      "message": "Subject: Student Attendance Alert: Madhan Absent on 20-06-2026\n\nDear Parent/Guardian,\n\nThis is an automated system notification keeping you informed. Your ward, Madhan, was absent from class on 20-06-2026.\n\nIf this was unplanned, please report or write back immediately.\n\nThank you,\nAdministration Office.",
+      "status": "Delivered",
+      "timestamp": "2026-06-20T08:20:38.434Z"
+    },
+    {
+      "id": "notif-1781943638434-399362",
+      "studentId": "22",
+      "studentName": "Madhan",
+      "parentName": "Alternative Guardian",
+      "parentContact": "6789754321",
+      "channel": "WhatsApp",
+      "message": "📢 *Class Notification*: Dear Alternative Guardian, your child *Madhan* was marked ABSENT today (20-06-2026). Please reply or call us regarding verification.",
+      "status": "Delivered",
+      "timestamp": "2026-06-20T08:20:38.434Z"
+    },
+    {
+      "id": "notif-1781943638434-311063",
+      "studentId": "22",
+      "studentName": "Madhan",
+      "parentName": "Alternative Guardian",
+      "parentContact": "6789754321",
+      "channel": "SMS",
+      "message": "Dear Parent, Your child Madhan was absent from class today (20-06-2026). Please contact the institution for further details.",
+      "status": "Delivered",
+      "timestamp": "2026-06-20T08:20:38.434Z"
+    },
+    {
+      "id": "notif-1781943638434-988499",
+      "studentId": "CS-2026-001",
+      "studentName": "Madhan Raj",
+      "parentName": "Sundar Raj",
+      "parentContact": "+91 9443212345",
+      "channel": "Push",
+      "message": "🔔 Absence Alert: Madhan Raj is absent today (20-06-2026). Click to review details.",
+      "status": "Delivered",
+      "timestamp": "2026-06-20T08:20:38.434Z"
+    },
+    {
+      "id": "notif-1781943638434-551585",
+      "studentId": "CS-2026-001",
+      "studentName": "Madhan Raj",
+      "parentName": "Sundar Raj",
+      "parentContact": "sundar.raj@parent.edu",
+      "channel": "Email",
+      "message": "Subject: Student Attendance Alert: Madhan Raj Absent on 20-06-2026\n\nDear Parent/Guardian,\n\nThis is an automated system notification keeping you informed. Your ward, Madhan Raj, was absent from class on 20-06-2026.\n\nIf this was unplanned, please report or write back immediately.\n\nThank you,\nAdministration Office.",
+      "status": "Failed",
+      "timestamp": "2026-06-20T08:20:38.434Z"
+    },
+    {
+      "id": "notif-1781943638434-90320",
+      "studentId": "CS-2026-001",
+      "studentName": "Madhan Raj",
+      "parentName": "Sundar Raj",
+      "parentContact": "+91 9443212345",
+      "channel": "WhatsApp",
+      "message": "📢 *Class Notification*: Dear Sundar Raj, your child *Madhan Raj* was marked ABSENT today (20-06-2026). Please reply or call us regarding verification.",
+      "status": "Delivered",
+      "timestamp": "2026-06-20T08:20:38.434Z"
+    },
+    {
+      "id": "notif-1781943638433-994097",
+      "studentId": "CS-2026-001",
+      "studentName": "Madhan Raj",
+      "parentName": "Sundar Raj",
+      "parentContact": "+91 9443212345",
+      "channel": "SMS",
+      "message": "Dear Parent, Your child Madhan Raj was absent from class today (20-06-2026). Please contact the institution for further details.",
+      "status": "Delivered",
+      "timestamp": "2026-06-20T08:20:38.433Z"
+    },
+    {
+      "id": "notif-1781943631554-352",
+      "studentId": "22",
+      "studentName": "Madhan",
+      "parentName": "Alternative Guardian",
+      "parentContact": "6789754321",
+      "channel": "SMS",
+      "message": "Dear Parent, Your child Madhan was absent today (2026-06-20). [Fallback matching executed]",
+      "status": "Delivered",
+      "timestamp": "2026-06-20T08:20:31.554Z"
+    },
+    {
+      "id": "notif-1781943631554-526",
+      "studentId": "CS-2026-001",
+      "studentName": "Madhan Raj",
+      "parentName": "Sundar Raj",
+      "parentContact": "+91 9443212345",
+      "channel": "SMS",
+      "message": "Dear Parent, Your child Madhan Raj was absent today (2026-06-20). [Fallback matching executed]",
+      "status": "Delivered",
+      "timestamp": "2026-06-20T08:20:31.554Z"
+    },
+    {
+      "id": "notif-1",
+      "studentId": "CS-2026-001",
+      "studentName": "Madhan Raj",
+      "parentName": "Sundar Raj",
+      "parentContact": "+91 9443212345",
+      "channel": "SMS",
+      "message": "Dear Parent, Your child Madhan Raj was absent from class today (2026-06-19). Please contact the institution for further details.",
+      "status": "Delivered",
+      "timestamp": "2026-06-19T09:15:00.000Z"
+    },
+    {
+      "id": "notif-2",
+      "studentId": "EC-2026-003",
+      "studentName": "Priya Swaminathan",
+      "parentName": "Swaminathan Iyer",
+      "parentContact": "swami.iyer@parent.edu",
+      "channel": "Email",
+      "message": "Dear Swaminathan Iyer, This is to inform you that Priya Swaminathan was marked absent today (2026-06-15).",
+      "status": "Delivered",
+      "timestamp": "2026-06-15T09:30:00.000Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1781943639461-542",
+      "user": "System Notification",
+      "action": "Email Simulated",
+      "details": "Simulated Email delivery to madhan8220am@gmail.com for student Madhan. To send actual emails, define SMTP config parameters.",
+      "timestamp": "2026-06-20T08:20:39.461Z"
+    },
+    {
+      "id": "log-1781943639454-722",
+      "user": "System Notification",
+      "action": "Email Simulated",
+      "details": "Simulated Email delivery to sundar.raj@parent.edu for student Madhan Raj. To send actual emails, define SMTP config parameters.",
+      "timestamp": "2026-06-20T08:20:39.454Z"
+    },
+    {
+      "id": "log-1781943638434-606",
+      "user": "Teacher",
+      "action": "Attendance Marked",
+      "details": "Marked attendance for date 2026-06-20: 7 presents, 2 absents",
+      "timestamp": "2026-06-20T08:20:38.434Z"
+    },
+    {
+      "id": "log-1781943631554-106",
+      "user": "System",
+      "action": "Fuzzy Fallback Matching",
+      "details": "Fuzzy extracted 2 matching names without Gemini API key",
+      "timestamp": "2026-06-20T08:20:31.554Z"
+    },
+    {
+      "id": "log-1781943623205-742",
+      "user": "Admin",
+      "action": "Student Added",
+      "details": "Added student Madhan (22)",
+      "timestamp": "2026-06-20T08:20:23.205Z"
+    },
+    {
+      "id": "log-1",
+      "user": "System",
+      "action": "Database Seeded",
+      "details": "Initialized 8 student records with historical attendance",
+      "timestamp": "2026-06-19T08:00:00.000Z"
+    }
+  ]
+}
